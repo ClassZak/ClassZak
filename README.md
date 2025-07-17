@@ -2,7 +2,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClassZak&show_icons=true&theme=dark) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClassZak&show_icons=true&theme=tokyonight) 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassZak&layout=compact&theme=dark)
 
