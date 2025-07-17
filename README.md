@@ -7,9 +7,15 @@ I can easily write a desktop application on the .Net platform, a server or a sma
 I can write a simple utility (without the need to write machine code or assembly)
 
 ---
-- 🔭 I’m currently working on [PasswordManager](https://github.com/ClassZak/PasswordManager)
+
+- 🔭 I’m currently working on [PasswordManager](https://github.com/ClassZak/PasswordManager) and on [testOpenGL](https://github.com/ClassZak/testOpenGL)
 - 🌱 I’m currently learning OpenGL, Arch Linux and system programming.
 
+---
+
+## My best projects
+
+- [WebProjectMerchStore](https://github.com/ClassZak/WebProjectMerchStore)
 
 ---
 
