@@ -1,8 +1,15 @@
 ## Hi everyone 👋
 
 I am a desktop programmer (C# .NET), backend (Python, Java and C++). I also write simple programs and utilities (C language).
+
 I can easily write a desktop application on the .Net platform, a server or a small template site (without authorization, access levels and automatic documentation).
+
 I can write a simple utility (without the need to write machine code or assembly)
+
+---
+- 🔭 I’m currently working on [PasswordManager](https://github.com/ClassZak/PasswordManager)
+- 🌱 I’m currently learning OpenGL, Arch Linux and system programming.
+
 
 ---
 
@@ -14,7 +21,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ---
 
-- 🌱 I’m currently learning OpenGL, Arch Linux and system programming.
+
 
 
 <!--
@@ -22,7 +29,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working o ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
