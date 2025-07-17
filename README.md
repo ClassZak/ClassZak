@@ -1,5 +1,10 @@
 ## Hi everyone 👋
 
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ClassZak&show_icons=true&theme=dark)
+
+
 <!--
 **ClassZak/ClassZak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
