@@ -8,7 +8,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ---
 
-- 🔭 I’m currently working on [PasswordManager](https://github.com/ClassZak/PasswordManager) and on [testOpenGL](https://github.com/ClassZak/testOpenGL)
+- 🔭 I’m currently working on [PasswordManager](https://github.com/ClassZak/PasswordManager), on [testOpenGL](https://github.com/ClassZak/testOpenGL) and on [FileServer](https://github.com/ClassZak/FileServer)
 - 🌱 I’m currently learning OpenGL, Arch Linux and system programming.
 
 ---
