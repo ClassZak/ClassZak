@@ -15,7 +15,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ## My best projects
 
-- [WebProjectMerchStore](https://github.com/ClassZak/WebProjectMerchStore)
+- [WebProjectMerchStorePub](https://github.com/ClassZak/WebProjectMerchStorePub)
 
 ---
 
