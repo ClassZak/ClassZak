@@ -16,7 +16,7 @@ I can write a simple utility (without the need to write machine code or assembly
 ## My best projects
 
 - [WebProjectMerchStorePub](https://github.com/ClassZak/WebProjectMerchStorePub)
-- [WebProjectMerchStorePub](https://github.com/ClassZak/PasswordManager)
+- [PasswordManager](https://github.com/ClassZak/PasswordManager)
 
 ---
 
