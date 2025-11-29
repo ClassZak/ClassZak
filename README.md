@@ -20,10 +20,23 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ---
 
-[![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+  
+  [![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  
+</div>
+
+<div align="center">
+  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassZak&layout=compact&theme=dark&langs_count=10)
 
+</div>
+
+<div align="center">
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClassZak&line=24292e&point=24292e&area=true&hide_border=true&hide_title=true&days=50&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
 
