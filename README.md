@@ -21,14 +21,10 @@ I can write a simple utility (without the need to write machine code or assembly
 ---
 
 <div align="center">
-  
-  [![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![](https://github-readme-stats.vercel.app/api/top-langs/?username=ClassZak&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-top-languages#gh-dark-mode-only)
+	[![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 <div align="center">
-  
-[![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+	[![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 <div align="center">
 
