@@ -17,6 +17,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 - [WebProjectMerchStorePub](https://github.com/ClassZak/WebProjectMerchStorePub)
 - [PasswordManager](https://github.com/ClassZak/PasswordManager)
+- [magnifying-glass](https://github.com/ClassZak/magnifying-glass) for Windows
 
 ---
 
