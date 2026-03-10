@@ -22,13 +22,15 @@ I can write a simple utility (without the need to write machine code or assembly
 ---
 
 - ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
-- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C#](https://img.icons8.com/?size=50&id=55251&format=png&color=000000) C#
 - ![Java](https://img.icons8.com/?size=50&id=13679&format=png&color=000000) Java
 - ![Kotlin](https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript--v1.png) TypeScript
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+- ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS
 
 ---
 
