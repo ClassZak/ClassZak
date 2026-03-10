@@ -21,6 +21,16 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ---
 
+- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
+- ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
+- ![Kotlin](https://img.icons8.com/?size=50&id=ZoxjA0jZDdFZ&format=png&color=000000) Kotlin
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
+- ![TypeScript](https://img.icons8.com/color/48/000000/typescript--v1.png) JavaScript
+- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+
+---
+
 <div align="center">
 
 [![](https://github-readme-stats-cyyin.vercel.app/api?username=ClassZak&count_private=true&show_icons=true&theme=tokyonight&show_owner=true&show=discussions_answered&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
