@@ -30,7 +30,7 @@ I can write a simple utility (without the need to write machine code or assembly
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript--v1.png) TypeScript
 - ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/?size=100&id=21278&format=png&color=000000) CSS
+- ![CSS](https://img.icons8.com/?size=50&id=21278&format=png&color=000000) CSS
 
 ---
 
