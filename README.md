@@ -21,6 +21,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 ---
 
+Programming languages, I know:
 - ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
 - ![C](https://img.icons8.com/color/48/000000/c-programming.png) C
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
