@@ -61,7 +61,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 <div align="center">
 
-[![](https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=ClassZak&layout=compact&theme=dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats-cyyin.vercel.app/api/top-langs?username=ClassZak&layout=compact&theme=dark&langs_count=20)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 </div>
 
 <div align="center">
