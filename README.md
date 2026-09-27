@@ -66,7 +66,7 @@ I can write a simple utility (without the need to write machine code or assembly
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClassZak&line=24292e&point=24292e&area=true&hide_border=true&hide_title=true&days=50&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ClassZak&line=24292e&point=24292e&area=true&hide_border=true&hide_title=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
